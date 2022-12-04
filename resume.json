@@ -1,0 +1,108 @@
+{
+    "resume": {
+        "title": "Pramod's resume",
+        "heading-1": "Pramod K Saji",
+        "tag-line": "I am a tech enthusiast and passionate about public speaking. I'm a person with a positive attitude and can adapt to any challenges. Also, I love listening to music and doing social activities.",
+        "profilePic": "img/1645.jpg",
+        "qrCode": "img/QR-code.jpeg",
+        "linkedin-link": "https://www.linkedin.com/in/pramod-saji/",
+        "alt-text": "Image of Pramod",
+        "profile-description": "I am a computer science and engineering graduate with 5+ years of experience as a software developer who posseseses strong problem-solving and analytical abilities. Dedicated in creating efficient and best quality software while adhering to the projects specifications and standards.",
+        "skills": [
+            ".NET Core API",
+            "HTML/CSS/JavaScript",
+            "Angular 11",
+            "Redux",
+            "React JS",
+            "PostgresSQL, Oracle"
+        ],
+        "hobbies": [
+            "Philately",
+            "Numismatics",
+            "Reading"
+        ],
+        "certifications": [
+            "Cambridge Business English Certification (BEC): Vantage level B2"
+        ],
+        "phone-number": "519-729-0511",
+        "email": "pramod.saji@outlook.com",
+        "copyright": "© Copyright 2022 - Pramod K Saji (pkunjukunju6432@conestogac.on.ca)",
+        "work-experience": [
+            {
+                "company": "Experion Technologies",
+                "url": "https://www.experionglobal.com/",
+                "positions-held": [
+                    {
+                        "position": "Senior Software Engineer",
+                        "duration": "(Sept 2020 – March 2022)"
+                    }
+                ],
+                "job-description": [
+                    "Experience in agile scrum methodology",
+                    "Worked in web app development using Web API using .NET 5 and Angular 11",
+                    "Strong analytical skills",
+                    "Mentoring junior folks"
+                ]
+            },
+            {
+                "company": "Infosys Ltd",
+                "url": "https://www.infosys.com/",
+                "positions-held": [
+                    {
+                        "position": "Technology Analyst",
+                        "duration": "(Jan 2020 – Sept 2020)"
+                    },
+                    {
+                        "position": "Senior Systems Engineer",
+                        "duration": "(Jul 2018 – Dec 2019)"
+                    },
+                    {
+                        "position": "Systems Engineer",
+                        "duration": "(Jul 2016 – June 2018)"
+                    }
+                ],
+                "job-description": [
+                    "Worked in web app development using Web API using .NET framework and Angular 8",
+                    "Preparation of As-Is detail design documentation",
+                    "Mentoring junior folks",
+                    "Experience in agile scrum methodology and software development lifecycle",
+                    "Provided ongoing maintenance and support for existing systems"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "schoolname": "Conestoga College – Kitchener Downtown Campus",
+                "program": "Ontario College Graduate Certificate - Reporting Systems and Database Development (Sept 2022 – Ongoing)",
+                "achievements": []
+            },
+            {
+                "schoolname": "Karunya Institute of Technology & Sciences",
+                "program": "B.Tech Computer Science and Engineering (July 2012-June 2016)",
+                "achievements": [
+                    "Completed course with CGPA: 7.73, internship with Infosys, Mysore during final semester"
+                ]
+            },
+            {
+                "schoolname": "Vimala Central School",
+                "program": "CBSE – AISSCE (June 2011-May 2012)",
+                "achievements": [
+                    "Completed the course with 67.6 %"
+                ]
+            },
+            {
+                "schoolname": "Vimala Central School",
+                "program": "CBSE – AISSE (June 2009-May 2010)",
+                "achievements": [
+                    "Completed the course with 72.2 %"
+                ]
+            }
+        ],
+        "achievements": [
+            "Completed one month “Blockchain Foundation Program” offered by Kerala Blockchain Academy",
+            "Internship at Infosys, Mysore (Final semester)",
+            "Organized and participated in the activities of the Software & Networking club in college",
+            "Was an active member of Toast Masters International (Till March 2021)"
+        ]
+    }
+}
